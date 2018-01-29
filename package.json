@@ -1,0 +1,11 @@
+{
+  "name": "project-without-cli",
+  "version": "1.0.0",
+  "description": "Angular project without using Angular CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurnkumar Ramachandriya",
+  "license": "ISC"
+}
