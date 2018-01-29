@@ -4,7 +4,8 @@
   "description": "Angular project without using Angular CLI tool",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack-dev-server --inline --progress --port 8080 --config webpack.config.dev.js"
   },
   "author": "Aurnkumar Ramachandriya",
   "license": "ISC",
